@@ -1,0 +1,49 @@
+
+header{
+    margin-top: -270px;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    text-align: end;
+    
+} 
+.logo {  
+    
+    font-size: 72px;  
+    font-weight: bold;  
+    color: #4285F4;  
+}  
+.logo img{
+    width: 350px;
+}
+.logo span {  
+    color: #EA4335;  
+}  
+.search-box {  
+    margin: 20px 0; 
+    border: 1px solid black; 
+    border-radius: 30px;
+    padding: 10px;
+    
+}  
+
+input[type="text"] {  
+    width: 600px;  
+    height: 30px;  
+    border: 0px solid #dcdcdc;  
+    border-radius: 0px;  
+    padding: 0 20px;  
+    font-size: 16px;  
+}  
+.buttons {  
+    margin-top: 20px;  
+}  
+button {  
+    margin: 5px;  
+    padding: 10px 20px;  
+    border: none;  
+    border-radius: 5px;  
+    background-color: #f8f9fa;  
+    cursor: pointer;  
+    font-size: 14px;  
+}  
